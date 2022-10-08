@@ -1,7 +1,7 @@
 /**
   * Edit features in './message/msg.js'
-  * Contact me on WhatsApp wa.me/628990999600
-  * Follow https://github.com/rtwone
+  * Contact me on WhatsApp wa.me/6285888826955
+  * Follow https://github.com/pannhuesshere
   * If you want to buy an updated script that is not encrypted, please WhatsApp me
 */
 
